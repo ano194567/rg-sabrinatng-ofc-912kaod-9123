@@ -4,7 +4,7 @@ export default function DocumentBack() {
   return (
     <div className="document-card">
       <img
-        src="/RGversoSABRINA.png"
+        src="/rgversosabrina copy.png"
         alt="RG - Verso"
         className="document-card__image"
         draggable={false}

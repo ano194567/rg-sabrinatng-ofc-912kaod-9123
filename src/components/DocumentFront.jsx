@@ -4,7 +4,7 @@ export default function DocumentFront() {
   return (
     <div className="document-card">
       <img
-        src="/RGfrenteSABRINA.png"
+        src="/rgfrentesabrina copy.png"
         alt="RG - Frente"
         className="document-card__image"
         draggable={false}
