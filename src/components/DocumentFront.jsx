@@ -4,7 +4,7 @@ export default function DocumentFront() {
   return (
     <div className="document-card">
       <img
-        src="/Screenshot 2026-05-29 202455.png"
+        src="/WhatsApp Image 2026-05-29 at 23.49.02.jpeg"
         alt="RG - Frente"
         className="document-card__image"
         draggable={false}
